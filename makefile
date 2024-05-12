@@ -43,6 +43,3 @@ run:
 
 val1:
 	valgrind ./proj4 proj4_items.txt proj4_planets.txt
-
-submit:
-	cp Game.h Game.cpp Item.h Item.cpp Armor.h Armor.cpp Engine.h Engine.cpp Weapon.h Weapon.cpp Ship.h Ship.cpp Planet.h Planet.cpp Enemy.h Enemy.cpp Gas.h Gas.cpp Mining.h Mining.cpp  ~/cs202proj/proj4
