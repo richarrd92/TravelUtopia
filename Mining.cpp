@@ -1,18 +1,3 @@
-/*****************************************
-** File:    Mining.cpp
-** Project: CMSC 202 Project 4, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/06/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the Mining class
-** the Mining class is derived from the class Planet
-** the file contains functions;
-** To get the Create Planet of Mining Type
-** more info in the project description.
-***********************************************/
 
 #include <iostream>
 #include <string>
