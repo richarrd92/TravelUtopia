@@ -1,19 +1,4 @@
-/*****************************************
-** File:    Ship.cpp
-** Project: CMSC 202 Project 4, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/06/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the Ship class
-** the Ship class is an aggregated class of Planet class
-** the file contains functions;
-** To get the Ship name, add items to the ship 
-** To replace, count or display items on the ship etc
-** more info in the project description.
-***********************************************/
+
 #include <iostream>
 #include <string>
 #include <vector>
