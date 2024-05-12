@@ -1,18 +1,3 @@
-/*****************************************
-** File:    Item.cpp
-** Project: CMSC 202 Project 4, Spring 2024
-** Author:  Richard Maliyetu
-** Date:    4/06/24
-** Section: 33
-** E-mail:  r215@gl.umbc.edu 
-** E-mail:  r215@umbc.edu 
-**
-** This file contains the implementation of the Item class
-** the Item class is the parent class of classes Engine, Weapons, and Armor
-** the file contains functions;
-** To get the Item name, type and value
-** more info in the project description.
-***********************************************/
 
 #include <iostream>
 #include <string>
