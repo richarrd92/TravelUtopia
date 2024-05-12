@@ -4,21 +4,4 @@ Embark on an interstellar journey in this thrilling space exploration game where
 
 ## Background
 
-As this project is focused on inheritance and polymorphism, there is an inheritance chain as defined in the figure below. Each of the planets has specialized special attacks. There are three different types of items (armor, engines, and weapons). The provided input files are formatted accordingly.
-
-## Requirements
-
-This is a list of the requirements of this application. For this project, it is up to you exactly how you want to implement it. For you to earn all the points, however, you will need to meet all the defined requirements.
-
-- Follow the coding standard as defined in the CMSC 202 coding standard.
-- Turn in the project on time.
-- Complete the project in C++ using only specified libraries and data structures.
-- Use conversion functions such as stoi, stod, or atoi.
-- Create a text-based space exploration game using the provided files.
-- Do not modify the header files.
-- Generate your own makefile.
-- Implement all functions listed in their class files completely.
-- Dynamically allocate (and deallocate) all entities and areas.
-- Validate all user input.
-- Ensure submissions are warning, errors, and memory leak-free.
-- Start coding incrementally, starting with simpler classes and gradually building up complexity.
+As this project there is an inheritance chain, Each of the planets has specialized special attacks. There are three different types of items (armor, engines, and weapons).
